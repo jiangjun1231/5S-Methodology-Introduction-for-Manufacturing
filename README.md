@@ -1,5 +1,4 @@
 # 5S-Methodology-Introduction-for-Manufacturing
-test
 <!DOCTYPE html>
 <html lang="en">
 <head>
